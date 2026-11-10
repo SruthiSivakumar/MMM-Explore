@@ -8,7 +8,7 @@ Robyn reports channel ROI with a clean set of plots, but in real work nobody can
 
 #### Data
 Synthetic weekly retail benchmark, 156 weeks, three media channels (PLA, Meta, TV), from the paper A Synthetic Benchmark Dataset with Endogenous Marketing Spend for Validating Marketing Mix Models (arXiv 2608.21130). 
-Generator code: [add repository link].
+Generator code: [Synthetic_Data_Generation_for_MMM.ipynb].
 
 The generator also records each week's true per-channel effect. I removed those columns before modelling and used them only to score the results.
 
